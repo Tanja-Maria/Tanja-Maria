@@ -1,14 +1,12 @@
-## Hi there 👋
+## Hi! Here is what I'm working on 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Photography Website (Portfolio)
-- 🌱 I’m currently learning HTML/CSS/Javascript/Ruby/Rails/React
-- 👯 I’m looking to collaborate on designing and building learning applications that make education more accessible
+- 🔭 Just learned HTML, CSS, JavaScript, and Ruby on Rails — now building my photography portfolio site to bring it all together.
+- 🌱 I’m currently React
+- 👯 Open to collaborating on educational apps that improve access to learning.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: https://tanja-maria.github.io/tanja-heinz-portfolio/
+- 📫 How to reach me: [Check my Portfolio](https://tanja-maria.github.io/tanja-heinz-portfolio/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
