@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Tanja-Maria/Tanja-Maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://tanja-maria.github.io/tanja-heinz-portfolio/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
