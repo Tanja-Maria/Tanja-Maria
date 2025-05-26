@@ -9,3 +9,5 @@
 - 📫 How to reach me: [Check my Portfolio](https://tanja-maria.github.io/tanja-heinz-portfolio/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I’m not coding, you’ll find me birdwatching, playing piano, or getting lost in nature.
+
+![Banner](./_5818-2.jpg)
